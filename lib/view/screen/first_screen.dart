@@ -44,7 +44,7 @@ class _FirstScreenState extends State<FirstScreen> {
                           const EdgeInsets.only(left: 30, right: 30, top: 10),
                       child: Text(
                         textAlign: TextAlign.center,
-                        "Let's Purify Peshawar and Empower Communities",
+                        "Let's Clean Peshawar and Empower Communities",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 25,
